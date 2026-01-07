@@ -1,0 +1,15 @@
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\bin\Debug\net9.0\RetiredCodewarsKata.exe
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\bin\Debug\net9.0\RetiredCodewarsKata.deps.json
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\bin\Debug\net9.0\RetiredCodewarsKata.runtimeconfig.json
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\bin\Debug\net9.0\RetiredCodewarsKata.dll
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\bin\Debug\net9.0\RetiredCodewarsKata.pdb
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\obj\Debug\net9.0\RetiredCodewarsKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\obj\Debug\net9.0\RetiredCodewarsKata.AssemblyInfoInputs.cache
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\obj\Debug\net9.0\RetiredCodewarsKata.AssemblyInfo.cs
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\obj\Debug\net9.0\RetiredCodewarsKata.csproj.CoreCompileInputs.cache
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\obj\Debug\net9.0\RetiredCodewarsKata.dll
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\obj\Debug\net9.0\refint\RetiredCodewarsKata.dll
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\obj\Debug\net9.0\RetiredCodewarsKata.pdb
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\obj\Debug\net9.0\RetiredCodewarsKata.genruntimeconfig.cache
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\obj\Debug\net9.0\ref\RetiredCodewarsKata.dll
+C:\Users\Alexi\Repos\RetiredCodewarsKata\RetiredCodewarsKata\obj\Debug\net9.0\RetiredCodewarsKata.sourcelink.json
