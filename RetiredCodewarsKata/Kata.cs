@@ -15,7 +15,6 @@ public class Kata
                 return true;
             }
         }
-
         return false;
     }
 
@@ -29,7 +28,9 @@ public class Kata
                 return "I will bye a teeth";
             }
         }
-
         return "Not today";
     }
+
+    public List<int> AreArrowFunctionsOdd(List<int> values) =>
+        values.Where(v => v % 2 != 0).ToList();
 }

@@ -27,4 +27,18 @@ public class KataTests
         
         Assert.Equal(expected, actual);
     }
+
+    [Theory]
+    [InlineData(new int[] { }, new int[] { })]
+    [InlineData(new int[] { 2, 4, 6 }, new int[] { })]
+    [InlineData(new int[] { 1, 3, 5 }, new int[] { 1, 3, 5 })]
+    [InlineData(new int[] { 1, 2, 3, 4, 5, 6 }, new int[] { 1, 3, 5 })]
+    public void AreArrowFunctionsOddTest(int[] values, int[] expected)
+    {
+        Kata kata = new Kata();
+
+        List<int> actual = kata.AreArrowFunctionsOdd(values.ToList());
+
+        Assert.Equal(expected.ToList(), actual);
+    }
 }
